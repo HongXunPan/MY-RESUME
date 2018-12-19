@@ -1,7 +1,7 @@
 ## <center><strong>康宣鹏 应聘职位:PHP工程师 工作2年</strong></center>
 ### 联系方式
-- 手机：*** **** **** （```工作时间建议短信或微信联系```）
-- Email：***@***.com
+- 手机：*** **** ****
+- Email：me@kangxuanpeng.com
 - 微信号：HongXunPan
 
 ---
@@ -11,13 +11,13 @@
 - 大专/深圳职业技术学院/计算机信息管理专业
 - 工作年限：2年
 - 期望职位：PHP工程师
-- 期望薪资：10-12k
-- 工作状态：工作中，近期可到岗
+- 期望薪资：11-13k
+- 工作状态：已离职，可快速到岗
 
 ---
 
 ### 自我评价
-- 熟练掌握Yii Framework 2、ThinkPHP 5、 ThinkPHP 3.2框架；
+- 熟练掌握LaravelYii Framework 2、ThinkPHP 5、 ThinkPHP 3.2框架；
 - 了解Linux操作系统，熟悉LNMP的基本操作，理解面向对象软件设计方法；
 - 熟练掌握SVN、GIT版本控制工具；
 - 了解Redis缓存机制、MYSQL的性能优化、代码RESTFUL设计风格；
@@ -28,6 +28,49 @@
 ---
 
 ### 工作经历
+
+#### 深圳乐橙互娱科技有限公司 （2018年3月~2018年12月）
+```2018年6月随部门由深圳火星网络平移至此```
+##### 职位：PHP工程师
+##### 工作内容
+- 独立负责日常维护游戏平台SDK的正常运行
+- 搭建迭代新游戏预热宣传页面、游戏活动页面
+- 维护游戏平台官网
+- 满足公司其他部门建站需求
+
+##### 宠物小精灵线下活动页 (```2018.07-2018.11```)
+该项目作为宠物小精灵游戏的线下活动页,主要功能包含了老用户召回,游戏内特定互动行为奖励领取,消耗道具进行抽奖,特价打折商城等
+增加了用户黏性
+结合facebook作为入口点,召回老玩家共多少多少人次
+
+项目成果: 参与玩家达到xxx人次,累计消耗了xxx钻石,价值xxx美金
+
+项目地址 [activity-pocket.pocket2017.com](http://activity-pocket.pocket2017.com)
+
+##### 游戏预热页
+
+
+##### 微擎视频裂变项目 (```2018.03-2018.05```)
+
+
+
+##### 隐私政策页
+http://tg.huntingworldsea.com/ - 狩游世界预热页面
+http://lsg.gamater.com/ - 恋三国预热页面
+
+升级sdk- mol渠道支付接口流程
+
+http://cqml.919gou.com/ <<雷霆裁决>>游戏官网下载页
+http://ty.lchuyu.com/privacy.html 乐橙游戏平台隐私政策页
+yuyieeii.org - 疯狂捕鱼
+jjdwcasino.org - 街机娱乐城
+optimistby.org - 乐天捕鱼
+tg.jjiiwkhksll.org
+www.glorioustown.org
+touo.yaoguaishijie.org
+tg.jiuelhsohf.org - 真人电玩娱乐城
+jjdwcasino.org - 街机娱乐城
+
 #### 深圳市小美网络科技有限公司 （2017年6月~2018年1月）
 ##### 职位：PHP工程师
 ##### 工作内容：
@@ -85,6 +128,11 @@
 ---
 
 ### 个人作品
+##### 个人博客网站（```2018.07-2018.08```）
+项目后端采用laravel框架，前端采用bootstrap来实现自适应布局；
+服务器用vultr,环境为LNMP
+项目地址： [blog.kangxuanpeng.com](http://blog.kangxuanpeng.com) 、 [www.kangxuanpeng.com](http://www.xiaomei360.com)
+
 ##### HongkiYo家居商城  （```2017.04-2017.05```）
 作为毕业设计，该项目采用THINKPHP5.0.7版本；  
 我在项目中独立搭建了SVN等服务器开发环境、部署项目以及编写网站所有接口；  

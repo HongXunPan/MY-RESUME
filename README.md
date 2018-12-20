@@ -42,9 +42,9 @@
 
 该项目作为宠物小精灵游戏的线下活动页，主要功能包含了老用户召回、游戏内特定互动行为奖励领取、消耗道具进行抽奖、特价打折商城等
 
-承担角色:需求评审、前端页面开发，与游戏开发人员进行接口联调
+承担角色：需求评审、前端页面开发，与游戏开发人员进行接口联调
 
-项目成果: 结合facebook作为入口点，增加了用户黏性，召回老玩家共200人次，参与互动玩家达到5k人次，累计抽奖6k+次、消耗道具价值1w8美金
+项目成果： 结合facebook作为入口点，增加了用户黏性，召回老玩家共200人次，参与互动玩家达到5k人次，累计抽奖6k+次、消耗道具价值1w8美金
 
 项目地址 [activity-pocket.pocket2017.com](http://activity-pocket.pocket2017.com/)
 
@@ -53,19 +53,19 @@
 
 通过facebook、谷歌进行投放，主要功能包括包含邮箱预约发送邮件，游戏正式上线时给预约玩家发送唯一礼包兑换码
 
-承担角色:根据美术的设计稿开发前端页面，完成后台功能需求，上线发版页面
+承担角色：根据美术的设计稿开发前端页面，完成后台功能需求，上线发版页面
 
 - 恋三国(泰国) (```2018.05```)
 
-项目成果:共收到了1.3k人次预约，并且成功发送预约礼包兑换码
+项目成果：共收到了1.3k人次预约，并且成功发送预约礼包兑换码
  
-项目地址: [lsg.gamater.com](http://lsg.gamater.com/)
+项目地址： [lsg.gamater.com](http://lsg.gamater.com/)
 
 - 狩游世界 (```2018.12```)
 
 游戏即将上线 
 
-项目地址: [tg.huntingworldsea.com](http://tg.huntingworldsea.com/)
+项目地址： [tg.huntingworldsea.com](http://tg.huntingworldsea.com/)
 
 ##### 维护SDK平台后台、SDK维护更新                                                                        
 
@@ -175,7 +175,7 @@ SDK后台xxx管理啊大苏打时间
 
 利用laravel5.6建立博客网站，前端采用bootstrap来实现响应式布局；服务器采用vultr，环境为LNMP
 
-主要技术:
+主要技术：
 - joyqi/hyper-down 将markdown解析为html进行展示
 - encore/laravel-admin 快速生成后台管理页面和CURD操作接口
 - nwidart/laravel-modules 管理多模块

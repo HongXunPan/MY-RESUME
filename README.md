@@ -17,7 +17,7 @@
 ---
 
 ### 自我评价
-- 熟练掌握LaravelYii Framework 2、ThinkPHP 5、 ThinkPHP 3.2框架；
+- 熟练掌握Laravel、 Yii Framework 2、ThinkPHP 5、 ThinkPHP 3.2框架；
 - 了解Linux操作系统，熟悉LNMP的基本操作，理解面向对象软件设计方法；
 - 熟练掌握SVN、GIT版本控制工具；
 - 了解Redis缓存机制、MYSQL的性能优化、代码RESTFUL设计风格；
@@ -30,46 +30,79 @@
 ### 工作经历
 
 #### 深圳乐橙互娱科技有限公司 （2018年3月~2018年12月）
-```2018年6月随部门由深圳火星网络平移至此```
+```2018年6月随部门由深圳火星网络有限公司平移至此```
 ##### 职位：PHP工程师
 ##### 工作内容
-- 独立负责日常维护游戏平台SDK的正常运行
+- 独立负责维护升级游戏平台SDK、SDK后台管理网站的正常运行
 - 搭建迭代新游戏预热宣传页面、游戏活动页面
 - 维护游戏平台官网
 - 满足公司其他部门建站需求
 
-##### 宠物小精灵线下活动页 (```2018.07-2018.11```)
-该项目作为宠物小精灵游戏的线下活动页,主要功能包含了老用户召回,游戏内特定互动行为奖励领取,消耗道具进行抽奖,特价打折商城等
-增加了用户黏性
-结合facebook作为入口点,召回老玩家共多少多少人次
+##### 宠物小精灵线下活动页 (```2018.08-2018.11```)
 
-项目成果: 参与玩家达到xxx人次,累计消耗了xxx钻石,价值xxx美金
+该项目作为宠物小精灵游戏的线下活动页,主要功能包含了老用户召回、游戏内特定互动行为奖励领取、消耗道具进行抽奖、特价打折商城等
 
-项目地址 [activity-pocket.pocket2017.com](http://activity-pocket.pocket2017.com)
+承担角色:需求评审、前端页面开发,与游戏开发人员进行接口联调
+
+项目成果: 结合facebook作为入口点,增加了用户黏性,召回老玩家共200人次,参与互动玩家达到5k人次,累计抽奖6k+次、消耗道具价值1w8美金
+
+项目地址 [activity-pocket.pocket2017.com](http://activity-pocket.pocket2017.com/)
 
 ##### 游戏预热页
+新游戏的预告宣传页面,介绍游戏的玩法以及用户预注册
 
+通过facebook、谷歌进行投放,主要功能包括包含邮箱预约发送邮件,游戏正式上线时给预约玩家发送唯一礼包兑换码
 
-##### 微擎视频裂变项目 (```2018.03-2018.05```)
+承担角色:根据美术的设计稿开发前端页面,完成后台功能需求,上线发版页面
 
+- 恋三国(泰国) (```2018.05```)
 
+项目成果:共收到了1.3k人次预约,并且成功发送预约礼包兑换码
+ 
+项目地址: [lsg.gamater.com](http://lsg.gamater.com/)
 
-##### 隐私政策页
-http://tg.huntingworldsea.com/ - 狩游世界预热页面
-http://lsg.gamater.com/ - 恋三国预热页面
+- 狩游世界 (```2018.12```)
+
+游戏即将上线 
+
+项目地址: [tg.huntingworldsea.com](http://tg.huntingworldsea.com/)
+
+##### 维护SDK平台后台、SDK维护更新                                                                        
 
 升级sdk- mol渠道支付接口流程
 
-http://cqml.919gou.com/ <<雷霆裁决>>游戏官网下载页
-http://ty.lchuyu.com/privacy.html 乐橙游戏平台隐私政策页
-yuyieeii.org - 疯狂捕鱼
-jjdwcasino.org - 街机娱乐城
-optimistby.org - 乐天捕鱼
-tg.jjiiwkhksll.org
-www.glorioustown.org
-touo.yaoguaishijie.org
-tg.jiuelhsohf.org - 真人电玩娱乐城
-jjdwcasino.org - 街机娱乐城
+##### 微擎视频裂变项目 (```2018.03-2018.05```)
+
+通过观看视频
+基于微擎框架进行的二次开发
+
+##### 隐私政策页
+
+为提审游戏建立隐私政策页面
+
+- 疯狂捕鱼
+
+[yuyieeii.org](http://yuyieeii.org/) 
+
+- 街机娱乐城
+
+[jjdwcasino.org](http://jjdwcasino.org/) 
+
+- 乐天捕鱼
+
+[optimistby.org](http://optimistby.org/)
+
+- 狩游世界
+
+[www.glorioustown.org](http://www.glorioustown.org/)
+
+- 真人电玩娱乐城
+
+[tg.jiuelhsohf.org](http://tg.jiuelhsohf.org/) 
+
+- 街机娱乐城
+
+[jjdwcasino.org](http://jjdwcasino.org/) 
 
 #### 深圳市小美网络科技有限公司 （2017年6月~2018年1月）
 ##### 职位：PHP工程师
@@ -82,11 +115,15 @@ jjdwcasino.org - 街机娱乐城
 ##### 小美OA系统 ```（2017.10-2018.01）```
 小美OA系统主要服务于小美公司的各业务部门，包括销售、采购、仓库等模块；  
 我在该项目中主要负责仓库、财务模块的功能设计和接口产出，并且对接现有业务以及其他模块；  
-此项目让我对工作流、状态流转有了深入的了解，并且方便了各部门的沟通成本，提成了业务部门的工作效率；  
+
+项目成果： 
+公司的运作模式由线下转到线上，统计报表自动化，工作流程规范化，提升了公司各业务部门的效率；对工作流、状态流转有了深入的了解，
+  
 ##### 小美诚品Android&IOS apk  （```2017.11-2017.12```）
 小美诚品APK采用的是前端REACT+后台PHP接口方式，功能主要跟小美商城微信站同步；  
 我独立承担了后台的接口开发工作，将Web项目的MVC层维持现有逻辑的原则下，以API接口形式跟前端交互；  
 接口rest化，遵循restful架构约束条件和原则、并且启用Http Basic方式认证；  
+
 我得以深一步对面向对象程序设计有了深入的实践，代码冗余率低，用较少的代码实现了完整的功能；  
 ##### 小美诚品数据统计分析中心 （```2017.08-2017.09```）
 数据统计分析中心主要是服务与销售运营部门，直观地查看平台的营销情况，  
@@ -115,7 +152,8 @@ jjdwcasino.org - 街机娱乐城
 ##### 小鹿云巡检 （```2016.11-2017.03```）
 小鹿云巡检是服务于九鹿鸣公司业务操作执行的一款类OA工具,  
 包括Andriod、IOS APP+Web后台管理系统；  
-我在项目里主要负责第三期的需求编写、工作流设计开发，  
+我在项目里主要负责版本迭代、第三期的需求编写、工作流设计开发，
+提升了公司部门的办公效率，  
 了解新媒体行业业务流程、软件功能设计本质及可行性；  
 学习了工作流模块设计、用途，在指导下完成从建库到实现流通工作流的设计开发，  
 并对今后程序设计积累了积极的经验。
@@ -128,16 +166,19 @@ jjdwcasino.org - 街机娱乐城
 ---
 
 ### 个人作品
-##### 个人博客网站（```2018.07-2018.08```）
-项目后端采用laravel框架，前端采用bootstrap来实现自适应布局；
-服务器用vultr,环境为LNMP
-项目地址： [blog.kangxuanpeng.com](http://blog.kangxuanpeng.com) 、 [www.kangxuanpeng.com](http://www.xiaomei360.com)
+##### 个人博客网站（```2018.07-2018.12```)
 
-##### HongkiYo家居商城  （```2017.04-2017.05```）
-作为毕业设计，该项目采用THINKPHP5.0.7版本；  
-我在项目中独立搭建了SVN等服务器开发环境、部署项目以及编写网站所有接口；  
-其中包括数据库操作session信息、禁止帐号多地登录、购物车订单等功能设计；  
-从中收获了培养了团队协作以及项目进度规划技能。  
+利用laravel5.6建立博客网站，前端采用bootstrap来实现响应式布局；服务器采用vultr,环境为LNMP
+
+主要技术:
+- joyqi/hyper-down 将markdown解析为html进行展示
+- encore/laravel-admin 快速生成后台管理页面和CURD操作接口
+- nwidart/laravel-modules 管理多模块
+- 运用event事件、监听触发评论被回复时用SMTP发送邮件通知
+- google-analytics 站长统计工具记录分析访客
+- git-Webhooks 项目发版流程通道：服务器用git钩子更新代码库
+
+项目地址： [blog.kangxuanpeng.com](http://blog.kangxuanpeng.com) 、 [www.kangxuanpeng.com](http://www.xiaomei360.com)
 
 ---
 
